@@ -1,7 +1,9 @@
 # node kill process by name
+[alt tag](https://img.shields.io/badge/build-passing-brightgreen.svg)
 NodeJS module to kill process by name on Linux without calling any external binary.
 
 Example usage (if NodeJS interpreter is on the same folder as the source file (main.js)):
+```javascript!
       var kill=require("./kill.js");
 			kill.killallthreads(current_path+"/node-v4.4.2"+"\u0000"+current_path+"/main.js"+"\u0000","SIGTERM");
 			kill.killallthreads(current_path+"/node-v4.4.2"+"\u0000"+"main.js"+"\u0000","SIGTERM");
