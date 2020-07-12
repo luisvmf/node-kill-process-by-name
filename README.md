@@ -12,3 +12,4 @@ Example usage (if NodeJS interpreter is on the same folder as the source file (m
 	kill.killallthreads(current_path+"/node-v4.4.2"+"\u0000"+current_path+"/main.js"+"\u0000","SIGKILL");
 	//This module doesn't kill the current process, just the threads.
 	process.exit();
+```
