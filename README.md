@@ -1,7 +1,7 @@
 # node kill process by name
 ![alt tag](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-	git clone https://github.com/luisvmf/node-kill-process-by-name
+	git clone https://git.luisvmf.com/node-kill-process-by-name
 
 NodeJS module to kill process by name on Linux without calling any external binary.
 
