@@ -1,5 +1,5 @@
 # node kill process by name
-![alt tag](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![alt tag](https://img.shields.io/badge/build-pass-green.svg)
 
 	git clone https://git.luisvmf.com/node-kill-process-by-name
 
